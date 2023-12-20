@@ -1,0 +1,3 @@
+Player: Kamil, Difficulty: Normalny, Score: 2
+Player: Kamil, Difficulty: Trudny, Score: 1
+Player: Kamil, Difficulty: Łatwy, Score: 1

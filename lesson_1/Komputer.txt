@@ -1,0 +1,1 @@
+Player: Komputer.txt, Difficulty: Łatwy, Score: 2

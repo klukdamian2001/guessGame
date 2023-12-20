@@ -1,0 +1,2 @@
+Player: Oskar, Difficulty: Łatwy, Score: 4
+Player: Oskar, Difficulty: Trudny, Score: 2
